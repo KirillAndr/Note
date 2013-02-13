@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  2 FEB 2013 00:45
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  11 FEB 2013 05:42
 entering extended mode
 **chapter3.tex
 ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter3.tex"
@@ -162,170 +162,290 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
+(D:\_Full_TeX\texmf\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip46
+\enit@outerparindent=\dimen115
+\enit@toks=\toks25
+\enit@inbox=\box28
+\enitdp@description=\count103
+)
+(D:\_Full_TeX\texmf\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/11/11 v2.9.2 Sectioning titles
+\ttl@box=\box29
+\beforetitleunit=\skip47
+\aftertitleunit=\skip48
+\ttl@plus=\dimen116
+\ttl@minus=\dimen117
+\ttl@toksa=\toks26
+\titlewidth=\dimen118
+\titlewidthlast=\dimen119
+\titlewidthfirst=\dimen120
+)
 ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter3.aux"
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
 (D:\_Full_TeX\texmf\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 
 (D:\_Full_TeX\texmf\tex\latex\ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (D:\_Full_TeX\texmf\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count103
-\scratchdimen=\dimen115
-\scratchbox=\box28
-\nofMPsegments=\count104
-\nofMParguments=\count105
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count106
-\MPscratchDim=\dimen116
-\MPnumerator=\count107
-\makeMPintoPDFobject=\count108
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count104
+\scratchdimen=\dimen121
+\scratchbox=\box30
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen122
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks28
 )
 {\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
 (D:\_Full_TeX\texmf\tex\latex\ucs\uni-4.def
 File: uni-4.def 2012/08/28 UCS: Unicode data U+0400..U+04FF
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
-
-(D:\_Full_TeX\texmf\tex\latex\base\omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
-
-Overfull \hbox (10.63658pt too wide) in paragraph at lines 32--33
+Overfull \hbox (10.63658pt too wide) in paragraph at lines 62--63
 \T2A/cmr/m/n/12 ют-ся мо-де-ли устройств, про-то-ко-лов, при-ло-же-ний. Объ-еди
 -не-ние се-те-вых устройств
  []
+
+
+Overfull \hbox (4.42998pt too wide) in paragraph at lines 62--63
+\T2A/cmr/m/n/12 ний. Мо-дель ло-каль-ной се-ти пред-став-ля-ет со-бой со-во-куп
+-ность мо-де-лей устройств
+ []
+
+<graphic/chapter3/Ch3Pic2.pdf, id=1, 311.1625pt x 230.8625pt>
+File: graphic/chapter3/Ch3Pic2.pdf Graphic file (type pdf)
+
+<use graphic/chapter3/Ch3Pic2.pdf>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic2.pdf used on input line 69.
+(pdftex.def)             Requested size: 170.71652pt x 126.66124pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [1
 
 
 {D:/_Full_TeX/texmf/pdftex/config/pdftex.map}]
-<graphic/chapter3/Ch3Pic2.pdf, id=10, 311.1625pt x 230.8625pt>
-File: graphic/chapter3/Ch3Pic2.pdf Graphic file (type pdf)
-
-<use graphic/chapter3/Ch3Pic2.pdf>
-Package pdftex.def Info: graphic/chapter3/Ch3Pic2.pdf used on input line 39.
-(pdftex.def)             Requested size: 170.71652pt x 126.66124pt.
-
-<graphic/chapter3/Ch3Pic3.pdf, id=11, 200.75pt x 281.05pt>
+<graphic/chapter3/Ch3Pic3.pdf, id=8, 200.75pt x 281.05pt>
 File: graphic/chapter3/Ch3Pic3.pdf Graphic file (type pdf)
 
 <use graphic/chapter3/Ch3Pic3.pdf>
-Package pdftex.def Info: graphic/chapter3/Ch3Pic3.pdf used on input line 50.
+Package pdftex.def Info: graphic/chapter3/Ch3Pic3.pdf used on input line 80.
 (pdftex.def)             Requested size: 113.81102pt x 159.33817pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<graphic/chapter3/Ch3Pic4.pdf, id=12, 622.325pt x 291.0875pt>
+ [2 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic2.pdf> <D:/РЈРЅРёРІР
+µСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic3.pdf>] <graphic/chapter3/Ch3Pic4.pdf
+, id=16, 622.325pt x 291.0875pt>
 File: graphic/chapter3/Ch3Pic4.pdf Graphic file (type pdf)
 
 <use graphic/chapter3/Ch3Pic4.pdf>
-Package pdftex.def Info: graphic/chapter3/Ch3Pic4.pdf used on input line 59.
+Package pdftex.def Info: graphic/chapter3/Ch3Pic4.pdf used on input line 89.
 (pdftex.def)             Requested size: 284.52756pt x 133.08461pt.
- [2 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic2.pdf>]
-Overfull \hbox (3.11676pt too wide) in paragraph at lines 63--64
+
+Overfull \hbox (3.11676pt too wide) in paragraph at lines 93--94
 []\T2A/cmr/m/n/12 Интерфейс EnviromentControlProtocolScript предо-став-ля-ет во
 з-мож-ность опи-
  []
 
-[3 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic3.pdf> <D:/РЈРЅРёРІРµ
-СЂ/New Folder/TeX/graphic/chapter3/Ch3Pic4.pdf>]
-<graphic/chapter3/Ch3Pic5.jpg, id=26, 459.7175pt x 266.9975pt>
+<graphic/chapter3/Ch3Pic5.jpg, id=17, 459.7175pt x 266.9975pt>
 File: graphic/chapter3/Ch3Pic5.jpg Graphic file (type jpg)
 
 <use graphic/chapter3/Ch3Pic5.jpg>
-Package pdftex.def Info: graphic/chapter3/Ch3Pic5.jpg used on input line 72.
+Package pdftex.def Info: graphic/chapter3/Ch3Pic5.jpg used on input line 102.
 (pdftex.def)             Requested size: 284.52756pt x 165.25969pt.
 
-<graphic/chapter3/Ch3Pic6.jpg, id=27, 431.6125pt x 441.65pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic4.pdf>]
+<graphic/chapter3/Ch3Pic6.jpg, id=23, 431.6125pt x 441.65pt>
 File: graphic/chapter3/Ch3Pic6.jpg Graphic file (type jpg)
 
 <use graphic/chapter3/Ch3Pic6.jpg>
-Package pdftex.def Info: graphic/chapter3/Ch3Pic6.jpg used on input line 81.
+Package pdftex.def Info: graphic/chapter3/Ch3Pic6.jpg used on input line 111.
 (pdftex.def)             Requested size: 284.52756pt x 291.15294pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic5.jpg>]
-<graphic/chapter3/Ch3Pic7.jpg, id=31, 492.84125pt x 575.14874pt>
+<graphic/chapter3/Ch3Pic7.jpg, id=24, 492.84125pt x 575.14874pt>
 File: graphic/chapter3/Ch3Pic7.jpg Graphic file (type jpg)
 
 <use graphic/chapter3/Ch3Pic7.jpg>
-Package pdftex.def Info: graphic/chapter3/Ch3Pic7.jpg used on input line 90.
+Package pdftex.def Info: graphic/chapter3/Ch3Pic7.jpg used on input line 120.
 (pdftex.def)             Requested size: 284.52756pt x 332.05946pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic6.jpg>] [6 <D:/РЈРЅРё
-РІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic7.jpg>]
-<graphic/chapter3/Ch3Pic8.jpg, id=38, 461.725pt x 250.9375pt>
+[4 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic5.jpg>] [5 <D:/РЈРЅРё
+РІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic6.jpg>] [6 <D:/РЈРЅРёРІРµСЂ/New Fo
+lder/TeX/graphic/chapter3/Ch3Pic7.jpg>]
+<graphic/chapter3/Ch3Pic8.jpg, id=34, 461.725pt x 250.9375pt>
 File: graphic/chapter3/Ch3Pic8.jpg Graphic file (type jpg)
 
 <use graphic/chapter3/Ch3Pic8.jpg>
-Package pdftex.def Info: graphic/chapter3/Ch3Pic8.jpg used on input line 130.
+Package pdftex.def Info: graphic/chapter3/Ch3Pic8.jpg used on input line 159.
 (pdftex.def)             Requested size: 284.52756pt x 154.63387pt.
 
-Overfull \hbox (21.12437pt too wide) in paragraph at lines 134--135
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (21.12437pt too wide) in paragraph at lines 163--164
 \T2A/cmr/m/n/12 Application. На при-ве-ден-ном ри-сун-ке та-ким клас-сом яв-ля-
 ет-ся ListenPortApplication.
  []
 
 
-Overfull \hbox (1.32645pt too wide) in paragraph at lines 136--137
+Overfull \hbox (1.32645pt too wide) in paragraph at lines 165--166
 []\T2A/cmr/m/n/12 Модель по-ве-де-ния зло-умыш-лен-ни-ка так же опи-сы-ва-ет-ся
  в классе-наследнике
  []
 
-[7 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic8.jpg>]
-<graphic/chapter3/Ch3Pic9.jpg, id=43, 732.7375pt x 1013.7875pt>
+[7] <graphic/chapter3/Ch3Pic9.jpg, id=39, 732.7375pt x 1013.7875pt>
 File: graphic/chapter3/Ch3Pic9.jpg Graphic file (type jpg)
 
 <use graphic/chapter3/Ch3Pic9.jpg>
-Package pdftex.def Info: graphic/chapter3/Ch3Pic9.jpg used on input line 143.
+Package pdftex.def Info: graphic/chapter3/Ch3Pic9.jpg used on input line 172.
 (pdftex.def)             Requested size: 398.33858pt x 551.13423pt.
- [8] [9 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic9.jpg>] ("D:\РЈР
-ЅРёРІРµСЂ\New Folder\TeX\chapter3.aux") ) 
+ [8 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic8.jpg>] [9 <D:/РЈРЅР
+ёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic9.jpg>] <graphic/chapter3/Ch3Pic1
+7.jpg, id=46, 200.75pt x 220.825pt>
+File: graphic/chapter3/Ch3Pic17.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/Ch3Pic17.jpg>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic17.jpg used on input line 194.
+(pdftex.def)             Requested size: 170.71652pt x 187.79984pt.
+ [10 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic17.jpg>]
+Overfull \hbox (10.95944pt too wide) in paragraph at lines 208--209
+\T2A/cmr/m/n/12 стей. Во-первых -- со-зда-ние файла-конфигурации се-ти, с опи-с
+а-ни-ем всех устройств
+ []
+
+<graphic/chapter3/SystemMainView.jpg, id=50, 645.91313pt x 499.8675pt>
+File: graphic/chapter3/SystemMainView.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/SystemMainView.jpg>
+Package pdftex.def Info: graphic/chapter3/SystemMainView.jpg used on input line
+ 211.
+(pdftex.def)             Requested size: 284.52756pt x 220.19408pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11] <graphic/chapter3/contextMenuView.jpg, id=54, 645.91313pt x 549.55313pt>
+File: graphic/chapter3/contextMenuView.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/contextMenuView.jpg>
+Package pdftex.def Info: graphic/chapter3/contextMenuView.jpg used on input lin
+e 224.
+(pdftex.def)             Requested size: 284.52756pt x 242.08084pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/SystemMainView.jpg>]
+<graphic/chapter3/LoadGraphic.jpg, id=58, 455.45157pt x 380.17032pt>
+File: graphic/chapter3/LoadGraphic.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/LoadGraphic.jpg>
+Package pdftex.def Info: graphic/chapter3/LoadGraphic.jpg used on input line 23
+3.
+(pdftex.def)             Requested size: 284.52756pt x 237.50145pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphic/chapter3/LoadGraphicOverload.jpg, id=59, 447.17062pt x 376.40625pt>
+File: graphic/chapter3/LoadGraphicOverload.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/LoadGraphicOverload.jpg>
+Package pdftex.def Info: graphic/chapter3/LoadGraphicOverload.jpg used on input
+ line 241.
+(pdftex.def)             Requested size: 284.52756pt x 239.5035pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/contextMenuView.jpg>]
+[14 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/LoadGraphic.jpg> <D:/РЈРЅР
+ёРІРµСЂ/New Folder/TeX/graphic/chapter3/LoadGraphicOverload.jpg>]
+<graphic/chapter3/routing.jpg, id=67, 630.85687pt x 492.33937pt>
+File: graphic/chapter3/routing.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/routing.jpg>
+Package pdftex.def Info: graphic/chapter3/routing.jpg used on input line 253.
+(pdftex.def)             Requested size: 284.52756pt x 222.054pt.
+
+<graphic/chapter3/FaultsTable.jpg, id=68, 891.33pt x 535.2497pt>
+File: graphic/chapter3/FaultsTable.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/FaultsTable.jpg>
+Package pdftex.def Info: graphic/chapter3/FaultsTable.jpg used on input line 26
+1.
+(pdftex.def)             Requested size: 284.52756pt x 170.8587pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/routing.jpg>]
+Overfull \hbox (12.38953pt too wide) in paragraph at lines 267--268
+\T2A/cmr/m/n/12 зуль-та-там се-рии ис-пы-та-ний, для че-го в ме-ню "Simulate"вы
+делен пункт "Statistics".
+ []
+
+<graphic/chapter3/StatisticsTable.jpg, id=72, 931.98187pt x 532.99126pt>
+File: graphic/chapter3/StatisticsTable.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/StatisticsTable.jpg>
+Package pdftex.def Info: graphic/chapter3/StatisticsTable.jpg used on input lin
+e 270.
+(pdftex.def)             Requested size: 284.52756pt x 162.71255pt.
+ [16 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/FaultsTable.jpg> <D:/РЈРЅ
+РёРІРµСЂ/New Folder/TeX/graphic/chapter3/StatisticsTable.jpg>]
+Overfull \hbox (2.07228pt too wide) in paragraph at lines 281--290
+[][] 
+ []
+
+[17] [18] ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter3.aux") ) 
 Here is how much of TeX's memory you used:
- 3605 strings out of 494045
- 44309 string characters out of 3143962
- 101086 words of memory out of 3000000
- 6864 multiletter control sequences out of 15000+200000
- 10691 words of font info for 24 fonts, out of 3000000 for 9000
+ 4200 strings out of 494045
+ 53687 string characters out of 3143962
+ 114325 words of memory out of 3000000
+ 7443 multiletter control sequences out of 15000+200000
+ 8671 words of font info for 28 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,5n,24p,2741b,623s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/_Full_TeX/texmf/fonts/enc/dvips/cm
--super/cm-super-t2a.enc}<D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><D:/_Full_T
-eX/texmf/fonts/type1/public/cm-super/sfbx1440.pfb><D:/_Full_TeX/texmf/fonts/typ
-e1/public/cm-super/sfbx1728.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super
-/sfbx2488.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on chapter3.pdf (9 pages, 286915 bytes).
+ 27i,8n,36p,3193b,633s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/_Full_TeX/texmf/
+fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/_Full_TeX/texmf/fonts/type1/publi
+c/cm-super/sfbx1200.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfrm120
+0.pfb>
+Output written on chapter3.pdf (18 pages, 929922 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

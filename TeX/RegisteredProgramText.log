@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  20 JAN 2013 21:29
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  11 FEB 2013 09:26
 entering extended mode
 **RegisteredProgramText.tex
 ("D:\Универ\New Folder\TeX\RegisteredProgramText.tex"
@@ -23,12 +23,12 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 4--16
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--13
 [] 
  []
 
 
-D:\Универ\New Folder\TeX\RegisteredProgramText.tex:17: LaTeX Error: Missi
+D:\Универ\New Folder\TeX\RegisteredProgramText.tex:14: LaTeX Error: Missi
 ng \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -37,7 +37,7 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 17--17
+Overfull \hbox (20.0pt too wide) in paragraph at lines 14--14
 [] 
  []
 
@@ -72,11 +72,11 @@ Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
 
-Overfull \hbox (3.19443pt too wide) in paragraph at lines 19--20
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 16--17
  \OT1/cmr/bx/n/10 . 
  []
 
-D:\Универ\New Folder\TeX\RegisteredProgramText.tex:21: Undefined control 
+D:\Универ\New Folder\TeX\RegisteredProgramText.tex:18: Undefined control 
 sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -147,7 +147,7 @@ Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
 
-Overfull \hbox (3.19443pt too wide) in paragraph at lines 21--22
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 18--19
  \OT1/cmr/bx/n/10 . 
  []
 
@@ -218,8 +218,18 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 26--37
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--36
 [] 
  []
 
@@ -304,7 +314,7 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 39--40
+Overfull \hbox (20.0pt too wide) in paragraph at lines 38--39
 []
  []
 
@@ -369,30 +379,30 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 41--48
+Overfull \hbox (20.0pt too wide) in paragraph at lines 40--47
 []
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
 (D:\_Full_TeX\texmf\tex\latex\base\omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
-LaTeX Font Info:    Try loading font information for +cmr on input line 50.
-LaTeX Font Info:    No file cmr.fd. on input line 50.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+LaTeX Font Info:    Try loading font information for +cmr on input line 49.
+LaTeX Font Info:    No file cmr.fd. on input line 49.
 
 
 LaTeX Font Warning: Font shape `/cmr/m/n' undefined
-(Font)              using `/cmsy/m/n' instead on input line 50.
+(Font)              using `/cmsy/m/n' instead on input line 49.
 
-LaTeX Font Info:    Try loading font information for +cmsy on input line 50.
-LaTeX Font Info:    No file cmsy.fd. on input line 50.
+LaTeX Font Info:    Try loading font information for +cmsy on input line 49.
+LaTeX Font Info:    No file cmsy.fd. on input line 49.
 
 LaTeX Font Warning: Font shape `/cmsy/m/n' undefined
-(Font)              using `/cmsy/m/n' instead on input line 50.
+(Font)              using `/cmsy/m/n' instead on input line 49.
 
-D:\Универ\New Folder\TeX\RegisteredProgramText.tex:50: Corrupted NFSS tab
+D:\Универ\New Folder\TeX\RegisteredProgramText.tex:49: Corrupted NFSS tab
 les
 This error message was generated by an \errmessage
 command, so I can't give any explicit help.
@@ -401,7 +411,7 @@ and deduce the truth by order and method.
 
 
 LaTeX Font Warning: Font shape `/cmsy/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 50.
+(Font)              using `OT1/cmr/m/n' instead on input line 49.
 
 Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
@@ -434,17 +444,17 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (30.00002pt too wide) in paragraph at lines 50--51
+Overfull \hbox (30.00002pt too wide) in paragraph at lines 49--50
 [][]
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 53--58
+Overfull \hbox (20.0pt too wide) in paragraph at lines 52--57
 [] 
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 59--59
+Overfull \hbox (20.0pt too wide) in paragraph at lines 58--58
 [] 
  []
 
@@ -482,7 +492,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 
-D:\Универ\New Folder\TeX\RegisteredProgramText.tex:65: LaTeX Error: The f
+D:\Универ\New Folder\TeX\RegisteredProgramText.tex:64: LaTeX Error: The f
 ont size command \normalsize is not defined:
                there is probably something wrong with the class file.
 
@@ -493,11 +503,11 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [1{D:/_Full_TeX/texmf/pdftex/config/pdftex.map}]
-Overfull \hbox (20.0pt too wide) in paragraph at lines 67--67
+Overfull \hbox (20.0pt too wide) in paragraph at lines 66--66
 [] 
  []
 
-D:\Универ\New Folder\TeX\RegisteredProgramText.tex:68: Undefined control 
+D:\Универ\New Folder\TeX\RegisteredProgramText.tex:67: Undefined control 
 sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -560,7 +570,7 @@ Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
 
-Overfull \hbox (3.19443pt too wide) in paragraph at lines 68--69
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 67--68
  \OT1/cmr/bx/n/10 . 
  []
 
@@ -583,7 +593,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 71--72
+Overfull \hbox (20.0pt too wide) in paragraph at lines 70--71
 [] 
  []
 
@@ -4435,12 +4445,12 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 120--121
+Overfull \hbox (20.0pt too wide) in paragraph at lines 119--120
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 122--122
+Overfull \hbox (20.0pt too wide) in paragraph at lines 121--121
 [] 
  []
 

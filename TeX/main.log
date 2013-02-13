@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  29 JAN 2013 15:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  14 FEB 2013 01:50
 entering extended mode
 **main.tex
 ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\main.tex"
@@ -130,58 +130,209 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-No file main.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 14.
+(D:\_Full_TeX\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\_Full_TeX\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(D:\_Full_TeX\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\_Full_TeX\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\_Full_TeX\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(D:\_Full_TeX\texmf\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(D:\_Full_TeX\texmf\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(D:\_Full_TeX\texmf\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(D:\_Full_TeX\texmf\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip46
+\enit@outerparindent=\dimen115
+\enit@toks=\toks25
+\enit@inbox=\box28
+\enitdp@description=\count103
+)
+(D:\_Full_TeX\texmf\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/11/11 v2.9.2 Sectioning titles
+\ttl@box=\box29
+\beforetitleunit=\skip47
+\aftertitleunit=\skip48
+\ttl@plus=\dimen116
+\ttl@minus=\dimen117
+\ttl@toksa=\toks26
+\titlewidth=\dimen118
+\titlewidthlast=\dimen119
+\titlewidthfirst=\dimen120
+)
+(D:\_Full_TeX\texmf\tex\latex\tocloft\tocloft.sty
+Package: tocloft 2010/10/13 v2.3e parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 43.
+\cftparskip=\skip49
+\cftbeforetoctitleskip=\skip50
+\cftaftertoctitleskip=\skip51
+\cftbeforepartskip=\skip52
+\cftpartnumwidth=\skip53
+\cftpartindent=\skip54
+\cftbeforechapskip=\skip55
+\cftchapindent=\skip56
+\cftchapnumwidth=\skip57
+\cftbeforesecskip=\skip58
+\cftsecindent=\skip59
+\cftsecnumwidth=\skip60
+\cftbeforesubsecskip=\skip61
+\cftsubsecindent=\skip62
+\cftsubsecnumwidth=\skip63
+\cftbeforesubsubsecskip=\skip64
+\cftsubsubsecindent=\skip65
+\cftsubsubsecnumwidth=\skip66
+\cftbeforeparaskip=\skip67
+\cftparaindent=\skip68
+\cftparanumwidth=\skip69
+\cftbeforesubparaskip=\skip70
+\cftsubparaindent=\skip71
+\cftsubparanumwidth=\skip72
+\cftbeforeloftitleskip=\skip73
+\cftafterloftitleskip=\skip74
+\cftbeforefigskip=\skip75
+\cftfigindent=\skip76
+\cftfignumwidth=\skip77
+\c@lofdepth=\count104
+\c@lotdepth=\count105
+\cftbeforelottitleskip=\skip78
+\cftafterlottitleskip=\skip79
+\cftbeforetabskip=\skip80
+\cfttabindent=\skip81
+\cfttabnumwidth=\skip82
+)
+("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\main.aux"
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+
 (D:\_Full_TeX\texmf\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 14.
+
+LaTeX Warning: Label `Pic1' multiply defined.
+
+
+LaTeX Warning: Label `Pic2' multiply defined.
+
+
+LaTeX Warning: Label `Pic3' multiply defined.
+
+
+LaTeX Warning: Label `Pic4' multiply defined.
+
+
+LaTeX Warning: Label `Pic5' multiply defined.
+
+
+LaTeX Warning: Label `Pic6' multiply defined.
+
+
+LaTeX Warning: Label `Pic7' multiply defined.
+
+
+LaTeX Warning: Label `Pic8' multiply defined.
+
+
+LaTeX Warning: Label `Pic9' multiply defined.
+
+
+LaTeX Warning: Label `Pic10' multiply defined.
+
+
+LaTeX Warning: Label `Pic12' multiply defined.
+
+
+LaTeX Warning: Label `Pic13' multiply defined.
+
+
+LaTeX Warning: Label `table1' multiply defined.
+
+("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\RegisteredProgramText.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
 
 (D:\_Full_TeX\texmf\tex\latex\ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\introduction.tex"
-(D:\_Full_TeX\texmf\tex\latex\ucs\uni-4.def
+(D:\_Full_TeX\texmf\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen121
+\scratchbox=\box30
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen122
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks28
+) (D:\_Full_TeX\texmf\tex\latex\ucs\uni-4.def
 File: uni-4.def 2012/08/28 UCS: Unicode data U+0400..U+04FF
 ) [1
 
-{D:/_Full_TeX/texmf/pdftex/config/pdftex.map}] [2]
-Overfull \hbox (0.84236pt too wide) in paragraph at lines 39--40
-[]\T2A/cmr/m/n/12 Заключительным эта-пом яв-ля-ет-ся со-зда-ние под-си-сте-мы, 
-мо-де-ли-ру-ю-щей раз-
+{D:/_Full_TeX/texmf/pdftex/config/pdftex.map}] ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX
+\main.toc")
+\tf@toc=\write3
+
+("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter1.tex" [2]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
+(D:\_Full_TeX\texmf\tex\latex\ucs\uni-32.def
+File: uni-32.def 2012/08/28 UCS: Unicode data U+2000..U+20FF
+) [3
+
+]
+Overfull \hbox (6.38419pt too wide) in paragraph at lines 16--17
+\T2A/cmr/m/n/12 объ-ек-та дру-гим с це-лью по-лу-че-ния ин-фор-ма-ции о важ-ней
+-ших свой-ствах объекта-
  []
 
-) ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter1.tex" [3]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
-[4
-
-] [5]
-Overfull \hbox (27.10735pt too wide) in paragraph at lines 38--39
+[4] [5] [6]
+Overfull \hbox (27.10735pt too wide) in paragraph at lines 44--46
 \T2A/cmr/m/n/12 ных со-от-но-ше-ний (ал-геб-ра-и-че-ских, ин-те-гро-диф-фе-рен-
 ци-аль-ных, конечно-разностных
  []
 
-[6]
-Overfull \hbox (4.91582pt too wide) in paragraph at lines 56--57
+[7]
+Overfull \hbox (4.91582pt too wide) in paragraph at lines 62--63
 []\T2A/cmr/m/n/12 Метод ими-та-ци-он-но-го мо-де-ли-ро-ва-ния поз-во-ля-ет ре-ш
 ать за-да-чи ана-ли-за боль-
  []
 
-[7] [8] [9]
-Overfull \hbox (7.03777pt too wide) in paragraph at lines 124--125
+[8] [9]
+Overfull \hbox (7.03777pt too wide) in paragraph at lines 121--122
 \T2A/cmr/m/n/12 ют-ся на-чаль-ны-ми усло-ви-я-ми $[] \OT1/cmr/m/n/12 = (\OML/cm
 m/m/it/12 z[]; z[]; :::; z[]\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 [где $\OML/cmm/m
 /it/12 z[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 z[]\OT1/cmr/m/n/12 (\OML/cmm/m/it
@@ -190,133 +341,418 @@ m/m/it/12 z[]; z[]; :::; z[]\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 [где $\OML/cmm/m
 :::; z[] \OT1/cmr/m/n/12 =
  []
 
-(D:\_Full_TeX\texmf\tex\latex\ucs\uni-32.def
-File: uni-32.def 2012/08/28 UCS: Unicode data U+2000..U+20FF
-)
 (D:\_Full_TeX\texmf\tex\latex\ucs\uni-0.def
 File: uni-0.def 2012/08/28 UCS: Unicode data U+0000..U+00FF
 ) [10] [11]
-Overfull \hbox (1.1672pt too wide) in paragraph at lines 163--164
+Overfull \hbox (1.1672pt too wide) in paragraph at lines 160--161
 \T2A/cmr/m/n/12 о-ни-ро-ва-ния си-стем мож-но вы-де-лить сле-ду-ю-щие ос-нов-ны
 е под-хо-ды: непрерывно-
  []
 
 
-Overfull \hbox (89.59703pt too wide) in paragraph at lines 163--164
+Overfull \hbox (89.59703pt too wide) in paragraph at lines 160--161
 \T2A/cmr/m/n/12 детерминированный (на-при-мер, диф-фе-рен-ци-аль-ные урав-не-ни
 я); дискретно-детерминированный
  []
 
 
-Overfull \hbox (52.39903pt too wide) in paragraph at lines 163--164
+Overfull \hbox (52.39903pt too wide) in paragraph at lines 160--161
 \T2A/cmr/m/n/12 (ко-неч-ные ав-то-ма-ты); дискретно-стохастический (ве-ро-ят-но
 ст-ные ав-то-ма-ты); непрерывно-
  []
 
-[12] [13]
-
-LaTeX Warning: Command \CYRP invalid in math mode on input line 210.
-
-Missing character: There is no П in font cmr12!
-[14] [15] [16]
-Overfull \hbox (96.43846pt too wide) in paragraph at lines 290--291
-\T2A/cmr/m/n/12 ступ-ле-ния в А-схему, бу-дем на-зы-вать вход-ным со-об-ще-ни-е
-м или х-сообщением.Последовательность
- []
-
-[17]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 300.
-
- (D:\_Full_TeX\texmf\tex\latex\base\omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 300.
- [18]
-Overfull \hbox (8.34613pt too wide) in paragraph at lines 330--331
+[12] [13] [14] [15] [16]
+Overfull \hbox (8.34613pt too wide) in paragraph at lines 270--271
 []\T2A/cmr/m/n/12 Аналитические ме-то-ды име-ют-ся, но ма-те-ма-ти-че-ские про-
 це-ду-ры столь слож-
  []
 
 
-Overfull \hbox (1.33046pt too wide) in paragraph at lines 331--332
+Overfull \hbox (1.33046pt too wide) in paragraph at lines 271--272
 []\T2A/cmr/m/n/12 Аналитические ре-ше-ния су-ще-ству-ют, но их ре-а-ли-за-ция н
 евоз-мож-на в след-
  []
 
 
-Overfull \hbox (0.67789pt too wide) in paragraph at lines 332--333
+Overfull \hbox (0.67789pt too wide) in paragraph at lines 272--273
 []\T2A/cmr/m/n/12 Кроме оцен-ки опре-де-лен-ных па-ра-мет-ров, же-ла-тель-но ос
 у-ще-ствить на ими-
  []
 
-[19]
-Overfull \hbox (6.75336pt too wide) in paragraph at lines 343--344
+[17]
+Overfull \hbox (6.75336pt too wide) in paragraph at lines 283--284
 \T2A/cmr/m/n/12 ние "об-ра-бот-ка за-ка-за "дви-же-ние с гру-зом "раз-груз-ка"и
  дру-гие. Дискретно-
  []
 
-[20] [21] [22] [23]) ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter2.tex" [24]
-Overfull \hbox (13.13905pt too wide) in paragraph at lines 19--20
+[18] [19] [20] [21]
+<graphic/chapter1/Ch1Pic1.jpg, id=77, 511.9125pt x 311.1625pt>
+File: graphic/chapter1/Ch1Pic1.jpg Graphic file (type jpg)
+
+<use graphic/chapter1/Ch1Pic1.jpg>
+Package pdftex.def Info: graphic/chapter1/Ch1Pic1.jpg used on input line 339.
+(pdftex.def)             Requested size: 227.62204pt x 138.3553pt.
+ [22 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter1/Ch1Pic1.jpg>]) ("D:\РЈРЅР
+ёРІРµСЂ\New Folder\TeX\chapter2.tex" [23]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
+
+Overfull \hbox (13.13905pt too wide) in paragraph at lines 18--19
 \T2A/cmr/m/n/12 ведомые(Master-Slave). Си-стем-ный мо-дуль (PC) обыч-но яв-ля-е
 т-ся ве-ду-щим устрой-
  []
 
-[25]
-Overfull \hbox (6.38782pt too wide) in paragraph at lines 46--47
+[24
+
+]
+Overfull \hbox (6.38782pt too wide) in paragraph at lines 45--46
 \T2A/cmr/m/n/12 каж-дый по-сле-ду-ю-щий яв-ля-ет-ся над-строй-кой над преды-ду-
 щим. Ко-ли-че-ство уров-
  []
 
 
-Overfull \hbox (0.51068pt too wide) in paragraph at lines 46--47
+Overfull \hbox (0.51068pt too wide) in paragraph at lines 45--46
 \T2A/cmr/m/n/12 каж-до-го уров-ня явлет-ся предо-став-ле-ние неких сер-ви-сов д
 ля вы-ше-сто-я-щих уров-
  []
 
-[26] [27]
-Overfull \hbox (6.88187pt too wide) in paragraph at lines 71--72
+[25] <graphic/chapter2/Ch2Pic1.pdf, id=91, 558.085pt x 572.1375pt>
+File: graphic/chapter2/Ch2Pic1.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic1.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic1.pdf used on input line 50.
+(pdftex.def)             Requested size: 341.43306pt x 350.04224pt.
+ [26 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter2/Ch2Pic1.pdf>]
+<graphic/chapter2/Ch2Pic2.pdf, id=97, 775.89874pt x 691.58376pt>
+File: graphic/chapter2/Ch2Pic2.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic2.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic2.pdf used on input line 70.
+(pdftex.def)             Requested size: 398.33858pt x 355.0563pt.
+
+Overfull \hbox (6.88187pt too wide) in paragraph at lines 80--81
 \T2A/cmr/m/n/12 нять дан-ные от се-ан-со-во-го уров-ня, раз-бить их при необ-хо
 -ди-мо-сти на неболь-
  []
 
-
-Overfull \hbox (4.92403pt too wide) in paragraph at lines 73--74
+[27]
+Overfull \hbox (4.92403pt too wide) in paragraph at lines 82--83
 \T2A/cmr/m/n/12 ствие ком-пью-те-ров с раз-лич-ным внут-рен-ним пред-став-ле-ни
 -ем дан-ных, необ-
  []
 
-[28] [29] [30] [31]
-Overfull \hbox (0.66966pt too wide) in paragraph at lines 156--157
+<graphic/chapter2/Ch2Pic3.pdf, id=101, 533.995pt x 289.08pt>
+File: graphic/chapter2/Ch2Pic3.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic3.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic3.pdf used on input line 98.
+(pdftex.def)             Requested size: 341.43306pt x 184.84294pt.
+
+<graphic/chapter2/Ch2Pic4.pdf, id=102, 206.7725pt x 180.675pt>
+File: graphic/chapter2/Ch2Pic4.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic4.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic4.pdf used on input line 105.
+(pdftex.def)             Requested size: 142.26378pt x 124.31023pt.
+ [28] [29] [30]
+<graphic/chapter2/Ch2Pic5.pdf, id=112, 409.53pt x 309.155pt>
+File: graphic/chapter2/Ch2Pic5.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic5.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic5.pdf used on input line 163.
+(pdftex.def)             Requested size: 170.71652pt x 128.87715pt.
+
+<graphic/chapter2/Ch2Pic6.pdf, id=113, 278.03876pt x 385.44pt>
+File: graphic/chapter2/Ch2Pic6.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic6.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic6.pdf used on input line 182.
+(pdftex.def)             Requested size: 199.16928pt x 276.11095pt.
+
+<graphic/chapter2/Ch2Pic7.pdf, id=114, 379.4175pt x 455.7025pt>
+File: graphic/chapter2/Ch2Pic7.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic7.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic7.pdf used on input line 187.
+(pdftex.def)             Requested size: 199.16928pt x 239.21957pt.
+
+Overfull \hbox (0.66966pt too wide) in paragraph at lines 180--191
 \T2A/cmr/m/n/12 Модель про-то-ко-ла вза-и-мо-дей-ствия пред-став-ля-ет со-бой а
 л-го-ритм об-ра-бот-ки дан-
  []
 
-[32] [33]
-Overfull \hbox (25.14908pt too wide) in paragraph at lines 194--195
+[31] <graphic/chapter2/Ch2Pic8.pdf, id=119, 574.145pt x 385.44pt>
+File: graphic/chapter2/Ch2Pic8.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic8.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic8.pdf used on input line 208.
+(pdftex.def)             Requested size: 199.16928pt x 133.70622pt.
+
+<graphic/chapter2/Ch2Pic9.pdf, id=120, 647.41875pt x 548.0475pt>
+File: graphic/chapter2/Ch2Pic9.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic9.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic9.pdf used on input line 217.
+(pdftex.def)             Requested size: 341.43306pt x 289.02544pt.
+ [32]
+<graphic/chapter2/Ch2Pic10.pdf, id=124, 713.66624pt x 250.9375pt>
+File: graphic/chapter2/Ch2Pic10.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic10.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic10.pdf used on input line 232.
+(pdftex.def)             Requested size: 341.43306pt x 120.05423pt.
+
+Overfull \hbox (25.14908pt too wide) in paragraph at lines 240--241
 []\T2A/cmr/m/n/12 В том слу-чае, ес-ли мо-де-ли-ро-ва-ние ста-вит пе-ред со-бой
  за-да-чу вы-чис-ле-ния(оценку)
  []
 
-[34]
-Overfull \hbox (1.82pt too wide) in paragraph at lines 236--237
+[33]
+Overfull \hbox (1.82pt too wide) in paragraph at lines 282--283
 []\T2A/cmr/m/n/12 Одним из наи-бо-лее ис-поль-зу-е-мых отоб-ра-же-ний яв-ля-ет-
 ся по-сле-до-ва-тель-ность
  []
 
-
-Overfull \hbox (5.24574pt too wide) in paragraph at lines 254--255
+[34]
+Overfull \hbox (5.24574pt too wide) in paragraph at lines 300--301
 \T2A/cmr/m/n/12 лен-ник ге-не-ри-ру-ет тра-фик опре-де-лен-ной ин-тен-сив-но-ст
 и и струк-ту-ры. Под струк-
  []
 
-[35] [36]) ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter4Economic.tex" [37] [38]
-Overfull \hbox (11.92932pt too wide) in paragraph at lines 39--40
-[]\T2A/cmr/m/n/12 Выполнение ди-плом-ной ра-бо-ты бу-дет про-хо-дить на ба-зе С
-анкт-Петербургского
+[35] <graphic/chapter2/Ch2Pic12.pdf, id=136, 438.63875pt x 315.1775pt>
+File: graphic/chapter2/Ch2Pic12.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic12.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic12.pdf used on input line 322.
+(pdftex.def)             Requested size: 341.43306pt x 245.3373pt.
+
+<graphic/chapter2/Ch2Pic13.pdf, id=137, 439.6425pt x 299.1175pt>
+File: graphic/chapter2/Ch2Pic13.pdf Graphic file (type pdf)
+
+<use graphic/chapter2/Ch2Pic13.pdf>
+Package pdftex.def Info: graphic/chapter2/Ch2Pic13.pdf used on input line 333.
+(pdftex.def)             Requested size: 341.43306pt x 232.30658pt.
+ [36])
+("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter3.tex" [37] [38 <D:/РЈРЅРёРІРµСЂ/New Fo
+lder/TeX/graphic/chapter2/Ch2Pic2.pdf> <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/
+chapter2/Ch2Pic3.pdf>] [39 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter2/Ch2
+Pic4.pdf> <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter2/Ch2Pic5.pdf>]
+[40 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter2/Ch2Pic6.pdf> <D:/РЈРЅРёРІР
+µСЂ/New Folder/TeX/graphic/chapter2/Ch2Pic7.pdf>] [41 <D:/РЈРЅРёРІРµСЂ/New Fold
+er/TeX/graphic/chapter2/Ch2Pic8.pdf> <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/ch
+apter2/Ch2Pic9.pdf>] [42 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter2/Ch2Pi
+c10.pdf> <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter2/Ch2Pic12.pdf>]
+[43 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter2/Ch2Pic13.pdf>]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+Overfull \hbox (10.63658pt too wide) in paragraph at lines 15--16
+\T2A/cmr/m/n/12 ют-ся мо-де-ли устройств, про-то-ко-лов, при-ло-же-ний. Объ-еди
+-не-ние се-те-вых устройств
  []
 
 
+Overfull \hbox (4.42998pt too wide) in paragraph at lines 15--16
+\T2A/cmr/m/n/12 ний. Мо-дель ло-каль-ной се-ти пред-став-ля-ет со-бой со-во-куп
+-ность мо-де-лей устройств
+ []
+
+<graphic/chapter3/Ch3Pic2.pdf, id=186, 311.1625pt x 230.8625pt>
+File: graphic/chapter3/Ch3Pic2.pdf Graphic file (type pdf)
+
+<use graphic/chapter3/Ch3Pic2.pdf>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic2.pdf used on input line 22.
+(pdftex.def)             Requested size: 170.71652pt x 126.66124pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[44
+
+] <graphic/chapter3/Ch3Pic3.pdf, id=190, 200.75pt x 281.05pt>
+File: graphic/chapter3/Ch3Pic3.pdf Graphic file (type pdf)
+
+<use graphic/chapter3/Ch3Pic3.pdf>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic3.pdf used on input line 33.
+(pdftex.def)             Requested size: 113.81102pt x 159.33817pt.
+ [45 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic2.pdf> <D:/РЈРЅРёРІ
+РµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic3.pdf>] <graphic/chapter3/Ch3Pic4.pd
+f, id=198, 622.325pt x 291.0875pt>
+File: graphic/chapter3/Ch3Pic4.pdf Graphic file (type pdf)
+
+<use graphic/chapter3/Ch3Pic4.pdf>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic4.pdf used on input line 42.
+(pdftex.def)             Requested size: 284.52756pt x 133.08461pt.
+
+Overfull \hbox (3.11676pt too wide) in paragraph at lines 46--47
+[]\T2A/cmr/m/n/12 Интерфейс EnviromentControlProtocolScript предо-став-ля-ет во
+з-мож-ность опи-
+ []
+
+<graphic/chapter3/Ch3Pic5.jpg, id=199, 459.7175pt x 266.9975pt>
+File: graphic/chapter3/Ch3Pic5.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/Ch3Pic5.jpg>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic5.jpg used on input line 55.
+(pdftex.def)             Requested size: 284.52756pt x 165.25969pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic4.pdf>]
+<graphic/chapter3/Ch3Pic6.jpg, id=205, 431.6125pt x 441.65pt>
+File: graphic/chapter3/Ch3Pic6.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/Ch3Pic6.jpg>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic6.jpg used on input line 64.
+(pdftex.def)             Requested size: 284.52756pt x 291.15294pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphic/chapter3/Ch3Pic7.jpg, id=206, 492.84125pt x 575.14874pt>
+File: graphic/chapter3/Ch3Pic7.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/Ch3Pic7.jpg>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic7.jpg used on input line 73.
+(pdftex.def)             Requested size: 284.52756pt x 332.05946pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[47 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic5.jpg>] [48 <D:/РЈРЅ
+РёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic6.jpg>] [49 <D:/РЈРЅРёРІРµСЂ/New
+ Folder/TeX/graphic/chapter3/Ch3Pic7.jpg>]
+<graphic/chapter3/Ch3Pic8.jpg, id=217, 461.725pt x 250.9375pt>
+File: graphic/chapter3/Ch3Pic8.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/Ch3Pic8.jpg>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic8.jpg used on input line 112.
+(pdftex.def)             Requested size: 284.52756pt x 154.63387pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (21.12437pt too wide) in paragraph at lines 116--117
+\T2A/cmr/m/n/12 Application. На при-ве-ден-ном ри-сун-ке та-ким клас-сом яв-ля-
+ет-ся ListenPortApplication.
+ []
+
+
+Overfull \hbox (1.32645pt too wide) in paragraph at lines 118--119
+[]\T2A/cmr/m/n/12 Модель по-ве-де-ния зло-умыш-лен-ни-ка так же опи-сы-ва-ет-ся
+ в классе-наследнике
+ []
+
+[50] <graphic/chapter3/Ch3Pic9.jpg, id=221, 732.7375pt x 1013.7875pt>
+File: graphic/chapter3/Ch3Pic9.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/Ch3Pic9.jpg>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic9.jpg used on input line 125.
+(pdftex.def)             Requested size: 398.33858pt x 551.13423pt.
+ [51 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic8.jpg>] [52 <D:/РЈР
+ЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic9.jpg>] <graphic/chapter3/Ch3Pi
+c17.jpg, id=228, 200.75pt x 220.825pt>
+File: graphic/chapter3/Ch3Pic17.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/Ch3Pic17.jpg>
+Package pdftex.def Info: graphic/chapter3/Ch3Pic17.jpg used on input line 147.
+(pdftex.def)             Requested size: 170.71652pt x 187.79984pt.
+ [53 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/Ch3Pic17.jpg>]
+Overfull \hbox (10.95944pt too wide) in paragraph at lines 161--162
+\T2A/cmr/m/n/12 стей. Во-первых -- со-зда-ние файла-конфигурации се-ти, с опи-с
+а-ни-ем всех устройств
+ []
+
+<graphic/chapter3/SystemMainView.jpg, id=232, 645.91313pt x 499.8675pt>
+File: graphic/chapter3/SystemMainView.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/SystemMainView.jpg>
+Package pdftex.def Info: graphic/chapter3/SystemMainView.jpg used on input line
+ 164.
+(pdftex.def)             Requested size: 284.52756pt x 220.19408pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[54] <graphic/chapter3/contextMenuView.jpg, id=236, 645.91313pt x 549.55313pt>
+File: graphic/chapter3/contextMenuView.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/contextMenuView.jpg>
+Package pdftex.def Info: graphic/chapter3/contextMenuView.jpg used on input lin
+e 177.
+(pdftex.def)             Requested size: 284.52756pt x 242.08084pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[55 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/SystemMainView.jpg>]
+<graphic/chapter3/LoadGraphic.jpg, id=241, 455.45157pt x 380.17032pt>
+File: graphic/chapter3/LoadGraphic.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/LoadGraphic.jpg>
+Package pdftex.def Info: graphic/chapter3/LoadGraphic.jpg used on input line 18
+6.
+(pdftex.def)             Requested size: 284.52756pt x 237.50145pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphic/chapter3/LoadGraphicOverload.jpg, id=242, 447.17062pt x 376.40625pt>
+File: graphic/chapter3/LoadGraphicOverload.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/LoadGraphicOverload.jpg>
+Package pdftex.def Info: graphic/chapter3/LoadGraphicOverload.jpg used on input
+ line 194.
+(pdftex.def)             Requested size: 284.52756pt x 239.5035pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[56 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/contextMenuView.jpg>]
+[57 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/LoadGraphic.jpg> <D:/РЈРЅР
+ёРІРµСЂ/New Folder/TeX/graphic/chapter3/LoadGraphicOverload.jpg>]
+<graphic/chapter3/routing.jpg, id=249, 630.85687pt x 492.33937pt>
+File: graphic/chapter3/routing.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/routing.jpg>
+Package pdftex.def Info: graphic/chapter3/routing.jpg used on input line 206.
+(pdftex.def)             Requested size: 284.52756pt x 222.054pt.
+
+<graphic/chapter3/FaultsTable.jpg, id=250, 891.33pt x 535.2497pt>
+File: graphic/chapter3/FaultsTable.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/FaultsTable.jpg>
+Package pdftex.def Info: graphic/chapter3/FaultsTable.jpg used on input line 21
+4.
+(pdftex.def)             Requested size: 284.52756pt x 170.8587pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[58 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/routing.jpg>]
+Overfull \hbox (12.38953pt too wide) in paragraph at lines 220--221
+\T2A/cmr/m/n/12 зуль-та-там се-рии ис-пы-та-ний, для че-го в ме-ню "Simulate"вы
+делен пункт "Statistics".
+ []
+
+<graphic/chapter3/StatisticsTable.jpg, id=254, 931.98187pt x 532.99126pt>
+File: graphic/chapter3/StatisticsTable.jpg Graphic file (type jpg)
+
+<use graphic/chapter3/StatisticsTable.jpg>
+Package pdftex.def Info: graphic/chapter3/StatisticsTable.jpg used on input lin
+e 223.
+(pdftex.def)             Requested size: 284.52756pt x 162.71255pt.
+ [59 <D:/РЈРЅРёРІРµСЂ/New Folder/TeX/graphic/chapter3/FaultsTable.jpg> <D:/РЈРЅ
+РёРІРµСЂ/New Folder/TeX/graphic/chapter3/StatisticsTable.jpg>]
+Overfull \hbox (2.07228pt too wide) in paragraph at lines 234--243
+[][] 
+ []
+
+[60]) ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter4Economic.tex" [61]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 4.
+[62
+
+]
 Overfull \hbox (27.58241pt too wide) in paragraph at lines 46--47
 []\T2A/cmr/m/n/12 Исполнителями НИР яв-ля-ют-ся стар-ший на-уч-ный со-труд-ник 
 и студент-выпускник
@@ -325,55 +761,55 @@ Overfull \hbox (27.58241pt too wide) in paragraph at lines 46--47
 (D:\_Full_TeX\texmf\tex\latex\ucs\uni-33.def
 File: uni-33.def 2012/08/28 UCS: Unicode data U+2100..U+21FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-[]\T2A/cmr/m/n/12 Машинное вре-мя
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]\T2A/cmr/m/n/12 Старший на-уч-
- []
-
-
-Underfull \hbox (badness 2376) in paragraph at lines 57--57
+Underfull \hbox (badness 2376) in paragraph at lines 59--59
 []\T2A/cmr/m/n/12 Разработка мо-де-лей устройств
  []
 
 
-Overfull \hbox (120.71873pt too wide) in paragraph at lines 48--66
+Overfull \hbox (67.85252pt too wide) in paragraph at lines 50--68
 [][] 
  []
 
-[39]
-Overfull \hbox (100.0631pt too wide) in paragraph at lines 74--84
-[][] 
- []
-
-[40]
-Overfull \hbox (112.30382pt too wide) in paragraph at lines 92--99
-[][] 
+[63] [64]
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]\T2A/cmr/m/n/12 Канцелярские при-
  []
 
 
-LaTeX Warning: Command \CYRZ invalid in math mode on input line 103.
+Overfull \hbox (67.59966pt too wide) in paragraph at lines 79--89
+ [] 
+ []
 
 
-LaTeX Warning: Command \CYRO invalid in math mode on input line 103.
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]\T2A/cmr/m/n/12 Количество ра-бо-
+ []
 
 
-LaTeX Warning: Command \CYRZ invalid in math mode on input line 103.
+Overfull \hbox (67.59966pt too wide) in paragraph at lines 99--106
+[][] 
+ []
 
 
-LaTeX Warning: Command \CYRO invalid in math mode on input line 103.
+LaTeX Warning: Command \CYRZ invalid in math mode on input line 111.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
+LaTeX Warning: Command \CYRO invalid in math mode on input line 111.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 103.
+LaTeX Warning: Command \CYRZ invalid in math mode on input line 111.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
+LaTeX Warning: Command \CYRO invalid in math mode on input line 111.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 111.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 111.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 111.
 
 Missing character: There is no З in font cmr8!
 Missing character: There is no О in font cmr8!
@@ -382,288 +818,282 @@ Missing character: There is no О in font cmr8!
 Missing character: There is no м in font cmr8!
 Missing character: There is no е in font cmr8!
 Missing character: There is no с in font cmr8!
-[41]
-Overfull \hbox (19.94626pt too wide) in paragraph at lines 193--206
+[65] [66]
+Overfull \hbox (2.32144pt too wide) in paragraph at lines 206--219
 [][] 
  []
 
-[42]
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 []\T2A/cmr/m/n/12 Коэффициент
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
 []\T2A/cmr/m/n/12 Разработанная
  []
 
 
-Overfull \hbox (97.22447pt too wide) in paragraph at lines 218--227
+Overfull \hbox (56.1054pt too wide) in paragraph at lines 233--242
 [][] 
  []
 
-[43]) ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter5Law.tex" [44]
-Overfull \hbox (0.832pt too wide) in paragraph at lines 21--22
+[68]) ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\chapter5Law.tex" [69]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 5.
+[70
+
+]
+Overfull \hbox (0.832pt too wide) in paragraph at lines 20--21
 \T2A/cmr/m/n/12 ских со-сто-я-ний эле-мен-тов па-мя-ти за-по-ми-на-ю-ще-го устр
 ой-ства ЭВМ (ОЗУ),
  []
 
-[45] [46] [47] ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\RegisteredProgramText.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+[71] [72] [73] ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\RegisteredProgramText.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--37
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--48
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 48.
+(D:\_Full_TeX\texmf\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--48
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--48
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
 
  []
 
+[74
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-
- []
-
-[48
-
-] [49]
-Overfull \hbox (0.85861pt too wide) in paragraph at lines 87--88
+]
+Overfull \hbox (0.85861pt too wide) in paragraph at lines 84--85
 []\T2A/cmr/m/n/12 Application -- объ-ект, опи-сы-ва-ю-щий об-щее по-ве-де-ние м
 о-де-лей при-
  []
 
 
-Overfull \hbox (17.89735pt too wide) in paragraph at lines 95--96
+Overfull \hbox (17.89735pt too wide) in paragraph at lines 92--93
 []\T2A/cmr/m/n/12 SegmentControlSubSystem -- объ-ект, ре-а-ли-зу-ю-щий со-еди-н
 е-ние, управ-
  []
 
-[50]) [51]
-Overfull \hbox (67.09392pt too wide) in paragraph at lines 64--75
+[75]) [76]
+Overfull \hbox (67.09392pt too wide) in paragraph at lines 63--74
 [] 
  []
 
-[52
+[77
 
 ]
-Overfull \hbox (3.11765pt too wide) in paragraph at lines 88--89
+Overfull \hbox (3.11765pt too wide) in paragraph at lines 87--88
 []\T2A/cmr/m/n/12 что Ли-цен-зи-ар яв-ля-ет-ся ав-то-ром и пра-во-об-ла-да-те-л
 ем про-грам-мы для ЭВМ
  []
 
-[53] [54]
-Overfull \hbox (11.67918pt too wide) in paragraph at lines 133--134
+[78] [79]
+Overfull \hbox (11.67918pt too wide) in paragraph at lines 132--133
 []\T2A/cmr/m/n/12 Лицензиат обя-зу-ет-ся пред-при-ни-мать все необ-хо-ди-мые ме
 -ры для предот-
  []
 
 
-Overfull \hbox (13.64117pt too wide) in paragraph at lines 139--140
+Overfull \hbox (13.64117pt too wide) in paragraph at lines 138--139
 []\T2A/cmr/m/n/12 Стороны осво-бож-да-ют-ся от от-вет-ствен-но-сти за неис-пол-
 не-ние или ненад-
  []
 
-[55]
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
 
  []
 
-)
-Overfull \hbox (84.71873pt too wide) in paragraph at lines 168--23
+) ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\conclusion.tex"
+Overfull \hbox (84.71873pt too wide) in paragraph at lines 167--1
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--23
+Underfull \hbox (badness 10000) in paragraph at lines 167--1
 
  []
 
-[56] ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\main.aux"
-("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\RegisteredProgramText.aux")) ) 
+[81]) ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\literature.tex" [82
+
+] [83]
+Overfull \hbox (2.41298pt too wide) in paragraph at lines 18--19
+[]\T2A/cmr/m/n/12 Gorodetsk V., Kotenko I., Attacks against computer network: F
+ormal grammar-
+ []
+
+
+Overfull \hbox (10.59172pt too wide) in paragraph at lines 36--37
+[]\T2A/cmr/m/n/12 Sarraute C., Fernando Miranda, Jose I. Orlicki, Simulation of
+ computer networks. 
+ []
+
+) [84
+
+] ("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\main.aux"
+("D:\РЈРЅРёРІРµСЂ\New Folder\TeX\RegisteredProgramText.aux"))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3694 strings out of 494045
- 42862 string characters out of 3143962
- 95911 words of memory out of 3000000
- 6957 multiletter control sequences out of 15000+200000
- 15152 words of font info for 36 fonts, out of 3000000 for 9000
+ 5578 strings out of 494045
+ 71708 string characters out of 3143962
+ 132025 words of memory out of 3000000
+ 8754 multiletter control sequences out of 15000+200000
+ 12698 words of font info for 33 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,11n,24p,3102b,570s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/_Full_TeX/te
-xmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/_Full_TeX/texmf/fonts/type1/p
-ublic/amsfonts/cm/cmex10.pfb><D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm
-/cmmi12.pfb><D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/_F
-ull_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/_Full_TeX/texmf/font
-s/type1/public/amsfonts/cm/cmr12.pfb><D:/_Full_TeX/texmf/fonts/type1/public/ams
-fonts/cm/cmr6.pfb><D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/_Full_TeX/texm
-f/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/_Full_TeX/texmf/fonts/type1/publ
-ic/cm-super/sfbx1200.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfbx14
-40.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><D:/_Full_T
-eX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/_Full_TeX/texmf/fonts/typ
-e1/public/cm-super/sfrm0800.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super
-/sfrm1200.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on main.pdf (56 pages, 398745 bytes).
+ 27i,11n,34p,5701b,570s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/_Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/_Full_TeX/t
+exmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/_Full_TeX/texmf/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb><D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/c
+m/cmmi6.pfb><D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/_F
+ull_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/_Full_TeX/texmf/font
+s/type1/public/amsfonts/cm/cmr6.pfb><D:/_Full_TeX/texmf/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/_Full_TeX/texm
+f/fonts/type1/public/cm-super/sfbx1200.pfb><D:/_Full_TeX/texmf/fonts/type1/publ
+ic/cm-super/sfbx1440.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfrm08
+00.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1000.pfb><D:/_Full_T
+eX/texmf/fonts/type1/public/cm-super/sfrm1200.pfb><D:/_Full_TeX/texmf/fonts/typ
+e1/public/cm-super/sfrm1440.pfb>
+Output written on main.pdf (84 pages, 1594538 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
+ 392 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
